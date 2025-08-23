@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 💻 Full-stack developer passionate about **scalable apps & intelligent systems**  
 🧠 Skilled in **MERN, Python, Flask, AI/ML, and Cloud technologies**  
 🤖 Currently learning **AI Agents & LLM-powered applications**  
