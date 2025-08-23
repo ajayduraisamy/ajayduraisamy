@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ajay Duraisamy  
+#  Hey, I'm Ajay Duraisamy  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4DB6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Engineer;Cloud+%26+DevOps+Explorer;AI+Agents+Learner;System+Design+Enthusiast" />
