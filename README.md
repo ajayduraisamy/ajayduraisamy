@@ -1,7 +1,7 @@
 #  Hey, I'm Ajay Duraisamy  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4DB6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Engineer;Cloud+%26+DevOps+Explorer;AI+Agents+Learner;System+Design+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4DB6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Engineer;AI+Agents+Learner;System+Design+Enthusiast" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 🤖 Currently learning **AI Agents & LLM-powered applications**  
 🏗️ Improving in **System Design & scalable architectures**  
 ☁️ Exploring **AWS & DevOps automation**  
-📘 Also learning **Kotlin for Android Development**  
+
 📫 Reach me at: **[ajayduraisamy@gmail.com](mailto:ajayduraisamy@gmail.com)**  
 
 ---
