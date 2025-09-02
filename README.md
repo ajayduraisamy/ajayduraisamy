@@ -1,23 +1,23 @@
-#  Hey, I'm Ajay Duraisamy  
+# 👋 Hey, I'm Ajay Duraisamy  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4DB6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Cloud+%26+System+Design+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4DB6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Agents+%7C+ML+Learner;System+Design+%7C+Cloud+Explorer" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-💻 Full-stack developer passionate about **scalable apps & intelligent systems**  
+💻 Passionate **Full-Stack Developer** building scalable apps & intelligent systems  
 🧠 Skilled in **MERN, Python, Flask, AI/ML, and Cloud technologies**  
-🤖 Currently learning **AI Agents & LLM-powered applications**  
-🏗️ Sharpening **System Design & scalable architectures**  
-☁️ Exploring **AWS & DevOps automation**  
+🤖 Currently exploring **AI Agents & LLM-powered applications**  
+🏗️ Learning **System Design & scalable architectures**  
+☁️ Diving into **AWS, Docker & DevOps automation**  
 
-📫 Reach me: **[ajayduraisamy@gmail.com](mailto:ajayduraisamy@gmail.com)**  
+📫 Reach me at: **[ajayduraisamy@gmail.com](mailto:ajayduraisamy@gmail.com)**  
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 GitHub Highlights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=algolia&hide_border=true" height="170"/>
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ My Tech Toolbox  
+## 🛠️ Tech Toolbox  
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
