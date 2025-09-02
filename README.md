@@ -62,12 +62,7 @@
 
 ---
 
-## 🐍 Fun GitHub Animations  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ajayduraisamy/ajayduraisamy/output/github-contribution-grid-snake.svg" />
-</p>
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4DB6FF&height=120&section=footer"/>
