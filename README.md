@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&height=220&color=0:4DB6FF,100:1E90FF&text=Ajay%20Duraisamy&fontSize=55&animation=twinkling&fontAlignY=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2&text=Ajay%20Duraisamy&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
+
 
 
 <p align="center">
