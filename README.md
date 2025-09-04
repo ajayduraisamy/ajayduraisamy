@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:4DB6FF,100:1E90FF&height=200&section=header&text=Ajay%20Duraisamy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=1E90FF&height=200&section=header&text=Ajay%20Duraisamy&fontSize=50&fontColor=ffffff" />
+
 </p>
 
 <p align="center">
@@ -23,6 +24,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF&icon_color=4DB6FF" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF" height="170"/>
+
 </p>
 
 <p align="center">
