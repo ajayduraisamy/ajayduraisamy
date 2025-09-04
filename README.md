@@ -19,15 +19,14 @@
 
 ---
 ## 📊 GitHub Analytics  
+
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF&icon_color=4DB6FF" height="170"/>
 
-  <!-- GitHub Streak Stats (Fixed) -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF" height="170"/>
-</p>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.vercel.app?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF" height="170"/>
 
-<p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF" height="170"/>
 </p>
@@ -68,11 +67,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=000000&center=true&vCenter=true&width=600&lines=🚀+Frontend:+React+%7C+Next.js+%7C+TS;⚡+Backend:+Node.js+%7C+Express+%7C+Python;🛢️+Databases:+MongoDB+%7C+MySQL;🤖+AI/ML:+TensorFlow+%7C+PyTorch;☁️+DevOps:+AWS+%7C+Docker+%7C+Vercel" />
 </p>
 
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="180" />
-</p>
 
 ---
 ## 🌟 Featured Projects  
