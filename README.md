@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1E90FF&text=Ajay%20Duraisamy&height=200&fontSize=60&animation=blink" />
+  <img src="https://capsule-render.vercel.app/api?type=gradient&height=220&color=0:4DB6FF,100:1E90FF&text=Ajay%20Duraisamy&fontSize=55&animation=twinkling&fontAlignY=40&fontColor=ffffff" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=4DB6FF&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer;🤖+AI+%26+ML+Explorer;☁️+Cloud+%26+DevOps+Learner;🏗️+System+Design+Architect" />
