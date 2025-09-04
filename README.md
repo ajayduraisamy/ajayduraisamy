@@ -65,12 +65,16 @@
 
 <!-- Animated Tech Scroller -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=4DB6FF&center=true&vCenter=true&width=600&lines=🚀+Frontend:+React+%7C+Next.js+%7C+TS;⚡+Backend:+Node.js+%7C+Express+%7C+Python;🛢️+Databases:+MongoDB+%7C+MySQL;🤖+AI/ML:+TensorFlow+%7C+PyTorch;☁️+DevOps:+AWS+%7C+Docker+%7C+Vercel" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=000000&center=true&vCenter=true&width=600&lines=🚀+Frontend:+React+%7C+Next.js+%7C+TS;⚡+Backend:+Node.js+%7C+Express+%7C+Python;🛢️+Databases:+MongoDB+%7C+MySQL;🤖+AI/ML:+TensorFlow+%7C+PyTorch;☁️+DevOps:+AWS+%7C+Docker+%7C+Vercel" />
 </p>
 
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="180" />
+</p>
 
+---
 ## 🌟 Featured Projects  
 🔹 [**Job Portal (MERN Stack)**](https://github.com/ajayduraisamy) – Role-based job application system with dynamic forms  
 🔹 [**LogiTrack (MERN + GPS)**](https://github.com/ajayduraisamy) – Real-time logistics & driver tracking platform  
