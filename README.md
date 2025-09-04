@@ -1,6 +1,5 @@
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=rect&color=1E90FF&height=200&section=header&text=Ajay%20Duraisamy&fontSize=50&fontColor=ffffff" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E90FF&height=200&section=header&text=Ajay%20Duraisamy&fontSize=50&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -30,18 +29,9 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF" height="170"/>
 </p>
 
-
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF" height="170"/>
-</p>
-
 ---
 
 ## 🛠️ Tech Toolbox  
-
 <p align="center">
   <table>
     <tr>
@@ -70,11 +60,17 @@
 ---
 
 ## 🌟 Featured Projects  
-
 🔹 [**Job Portal (MERN Stack)**](https://github.com/ajayduraisamy) – Role-based job application system with dynamic forms  
 🔹 [**LogiTrack (MERN + GPS)**](https://github.com/ajayduraisamy) – Real-time logistics & driver tracking platform  
 🔹 [**Engineering Resource Manager**](https://github.com/ajayduraisamy) – AI-assisted capacity planning tool  
 🔹 [**AI Job Agent**](https://github.com/ajayduraisamy) – Resume tailoring using AI Agents  
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajayduraisamy&theme=algolia&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
@@ -86,8 +82,16 @@
 </p>
 
 ---
+
+## 🐍 Contribution Graph  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajayduraisamy&label=Profile%20Views&color=1E90FF&style=flat-square" alt="profile views" />
+  <img src="https://raw.githubusercontent.com/ajayduraisamy/ajayduraisamy/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajayduraisamy&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
