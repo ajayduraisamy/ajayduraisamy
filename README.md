@@ -18,18 +18,40 @@
 📩 Reach me at: **[ajayduraisamy@gmail.com](mailto:ajayduraisamy@gmail.com)**  
 
 ---
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF&icon_color=4DB6FF" height="170"/>
+<table align="center">
+  <tr>
+    <td align="center">
+      <!-- GitHub Stats -->
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF&icon_color=4DB6FF"
+        height="125"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <!-- GitHub Streak (center) -->
+      <img
+        src="https://streak-stats.demolab.com/?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF"
+        height="125"
+        alt="GitHub Streak"
+      />
+      <!-- If the line above ever fails, replace it with this fallback:
+      https://github-readme-streak-stats-eight.vercel.app/?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF
+      -->
+    </td>
+    <td align="center">
+      <!-- Top Languages -->
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF"
+        height="125"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.vercel.app?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF" height="170"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF" height="170"/>
-</p>
 
 
 ---
