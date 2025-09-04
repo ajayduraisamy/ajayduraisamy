@@ -23,7 +23,8 @@
 ## 📊 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF&icon_color=4DB6FF" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF" height="170"/>
+  <img src="https://github-readme-streak-stats.vercel.app?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF" height="170"/>
+
 
 </p>
 
@@ -79,7 +80,10 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajayduraisamy&label=Profile%20Views&color=1E90FF&style=flat-square" alt="profile views" />
+</p>
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4DB6FF,100:1E90FF&height=120&section=footer"/>
 </p>
