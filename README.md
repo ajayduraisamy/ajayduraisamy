@@ -18,7 +18,7 @@
 📩 Reach me at: **[ajayduraisamy@gmail.com](mailto:ajayduraisamy@gmail.com)**  
 
 ---
-## 📊 GitHub Analytics
+
 
 ## 📊 GitHub Analytics
 
@@ -43,27 +43,39 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts&perline=8" alt="Frontend" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000&cacheSeconds=3600" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&cacheSeconds=3600" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&cacheSeconds=3600" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&cacheSeconds=3600" />
 </p>
 
 <p align="center">
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python&perline=8" alt="Backend" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 <p align="center">
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=8" alt="Databases" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <p align="center">
-  <!-- AI / ML -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8" alt="AI/ML" />
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
 <p align="center">
   <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel&perline=8" alt="Cloud & DevOps" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
