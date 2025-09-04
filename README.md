@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E90FF&height=200&section=header&text=Ajay%20Duraisamy&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1E90FF&text=Ajay%20Duraisamy&height=200&fontSize=60&animation=blink" />
 </p>
 
 <p align="center">
@@ -120,6 +120,4 @@
   <img src="https://komarev.com/ghpvc/?username=ajayduraisamy&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4DB6FF,100:1E90FF&height=120&section=footer"/>
-</p>
+
