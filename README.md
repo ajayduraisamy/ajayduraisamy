@@ -18,16 +18,20 @@
 📩 Reach me at: **[ajayduraisamy@gmail.com](mailto:ajayduraisamy@gmail.com)**  
 
 ---
-
 ## 📊 GitHub Analytics  
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF&icon_color=4DB6FF" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF" height="170"/>
+
+  <!-- GitHub Streak Stats (Fixed) -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF" height="170"/>
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF" height="170"/>
 </p>
+
 
 ---
 
@@ -67,12 +71,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajayduraisamy&theme=algolia&no-frame=true&margin-w=15" />
-</p>
-
----
 
 ## 🌍 Connect With Me  
 <p align="center">
