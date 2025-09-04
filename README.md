@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=4DB6FF&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer;🤖+AI+%26+ML+Explorer;☁️+Cloud+%26+DevOps+Learner;🏗️+System+Design+Architect" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=4DB6FF&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer;🤖+AI+%26+ML+Engineer;☁️+Cloud+%26+DevOps+Engineer;" />
 </p>
 
 ---
