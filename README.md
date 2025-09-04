@@ -34,32 +34,40 @@
 
 
 ---
-
 ## 🛠️ Tech Toolbox  
+
 <p align="center">
-  <table>
-    <tr>
-      <td><b>Frontend</b></td>
-      <td><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts" /></td>
-    </tr>
-    <tr>
-      <td><b>Backend</b></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,express,flask,python" /></td>
-    </tr>
-    <tr>
-      <td><b>Databases</b></td>
-      <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></td>
-    </tr>
-    <tr>
-      <td><b>AI / ML</b></td>
-      <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /></td>
-    </tr>
-    <tr>
-      <td><b>Cloud & DevOps</b></td>
-      <td><img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" /></td>
-    </tr>
-  </table>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts&perline=8" alt="Frontend" />
 </p>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python&perline=8" alt="Backend" />
+</p>
+
+<p align="center">
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=8" alt="Databases" />
+</p>
+
+<p align="center">
+  <!-- AI / ML -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8" alt="AI/ML" />
+</p>
+
+<p align="center">
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel&perline=8" alt="Cloud & DevOps" />
+</p>
+
+---
+
+<!-- Animated Tech Scroller -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=4DB6FF&center=true&vCenter=true&width=600&lines=🚀+Frontend:+React+%7C+Next.js+%7C+TS;⚡+Backend:+Node.js+%7C+Express+%7C+Python;🛢️+Databases:+MongoDB+%7C+MySQL;🤖+AI/ML:+TensorFlow+%7C+PyTorch;☁️+DevOps:+AWS+%7C+Docker+%7C+Vercel" />
+</p>
+
 
 ---
 
