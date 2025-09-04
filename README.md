@@ -1,38 +1,83 @@
-# 👋 Hi, I'm Ajay Duraisamy  
-
-🚀 Full-Stack Developer | 🤖 AI & ML Enthusiast | ☁️ Cloud + DevOps Explorer  
-
-I love designing **scalable, intelligent systems** that combine AI, system design, and modern cloud infrastructure.  
-
----
-
-## 🧑‍💻 Tech Focus
-- **Frontend:** React, Next.js, TypeScript  
-- **Backend:** Node.js, Express, Flask, MongoDB, MySQL  
-- **AI/ML:** Python, TensorFlow, PyTorch, scikit-learn  
-- **Cloud & DevOps:** AWS, Docker, CI/CD automation  
-
----
-
-## 🌟 Selected Projects
-- **[Job Portal (MERN Stack)](https://github.com/ajayduraisamy)** – Role-based job application system with dynamic forms  
-- **[LogiTrack (MERN + GPS)](https://github.com/ajayduraisamy)** – Real-time logistics & driver tracking platform  
-- **[AI Job Agent](https://github.com/ajayduraisamy)** – Tailors resumes using AI agents for better job matching  
-
----
-
-## 📊 GitHub Snapshot  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:4DB6FF,100:1E90FF&height=200&section=header&text=Ajay%20Duraisamy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=4DB6FF&center=true&vCenter=true&width=800&lines=🚀+Full-Stack+Developer;🤖+AI+%26+ML+Explorer;☁️+Cloud+%26+DevOps+Learner;🏗️+System+Design+Architect" />
 </p>
 
 ---
 
-## 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-Ajay%20Duraisamy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-duraisamy)  
-[![Gmail](https://img.shields.io/badge/-ajayduraisamy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayduraisamy@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-ajayduraisamy-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajayduraisamy)  
+## 👨‍💻 About Me  
+✨ Passionate about building **scalable, intelligent applications**  
+🧠 Exploring the world of **AI Agents & LLM-powered solutions**  
+🏗️ Learning and applying **System Design & Architectures**  
+☁️ Hands-on with **AWS Cloud & DevOps automation**  
+💡 Always curious about **innovation & cutting-edge tech**  
+
+📩 Reach me at: **[ajayduraisamy@gmail.com](mailto:ajayduraisamy@gmail.com)**  
 
 ---
 
-✨ *Always curious about system design, AI agents, and building impactful software.*
+## 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF&icon_color=4DB6FF" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF" height="170"/>
+</p>
+
+---
+
+## 🛠️ Tech Toolbox  
+
+<p align="center">
+  <table>
+    <tr>
+      <td><b>Frontend</b></td>
+      <td><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts" /></td>
+    </tr>
+    <tr>
+      <td><b>Backend</b></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express,flask,python" /></td>
+    </tr>
+    <tr>
+      <td><b>Databases</b></td>
+      <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></td>
+    </tr>
+    <tr>
+      <td><b>AI / ML</b></td>
+      <td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /></td>
+    </tr>
+    <tr>
+      <td><b>Cloud & DevOps</b></td>
+      <td><img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" /></td>
+    </tr>
+  </table>
+</p>
+
+---
+
+## 🌟 Featured Projects  
+
+🔹 [**Job Portal (MERN Stack)**](https://github.com/ajayduraisamy) – Role-based job application system with dynamic forms  
+🔹 [**LogiTrack (MERN + GPS)**](https://github.com/ajayduraisamy) – Real-time logistics & driver tracking platform  
+🔹 [**Engineering Resource Manager**](https://github.com/ajayduraisamy) – AI-assisted capacity planning tool  
+🔹 [**AI Job Agent**](https://github.com/ajayduraisamy) – Resume tailoring using AI Agents  
+
+---
+
+## 🌍 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/ajay-duraisamy"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ajayduraisamy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ajayduraisamy"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4DB6FF,100:1E90FF&height=120&section=footer"/>
+</p>
