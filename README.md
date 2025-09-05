@@ -92,10 +92,6 @@
 
 ---
 
-<!-- Animated Tech Scroller -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=000000&center=true&vCenter=true&width=600&lines=🚀+Frontend:+React+%7C+Next.js+%7C+TS;⚡+Backend:+Node.js+%7C+Express+%7C+Python;🛢️+Databases:+MongoDB+%7C+MySQL;🤖+AI/ML:+TensorFlow+%7C+PyTorch;☁️+DevOps:+AWS+%7C+Docker+%7C+Vercel" />
-</p>
 
 
 ---
