@@ -96,10 +96,11 @@
 
 ### 7️⃣ Blockchain
   <!-- Blockchain -->
+  <p>
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
----
+
 
 
 
