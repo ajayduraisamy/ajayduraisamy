@@ -27,7 +27,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF&count_private=true&cache_seconds=7200" height="125" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF&icon_color=4DB6FF" height="125" alt="GitHub Stats" />
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats-eight.vercel.app?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF" height="125" alt="GitHub Streak Stats" />
@@ -74,7 +74,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 
 
 ### 5️⃣ Cloud & DevOps  
