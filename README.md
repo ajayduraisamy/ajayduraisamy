@@ -27,7 +27,11 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF&icon_color=4DB6FF" height="125" alt="GitHub Stats" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF&icon_color=4DB6FF" 
+        height="165" 
+        alt="GitHub Stats" 
+      />
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats-eight.vercel.app?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF" height="125" alt="GitHub Streak Stats" />
