@@ -26,18 +26,37 @@
 
 <table align="center">
   <tr>
+    <!-- GitHub Stats -->
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF&icon_color=4DB6FF" height="125" alt="GitHub Stats" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF&icon_color=4DB6FF&cache_seconds=1800" 
+        height="165" 
+        alt="GitHub Stats" 
+        style="max-width:100%;" 
+      />
     </td>
+
+   
     <td align="center">
-      <img src="https://github-readme-streak-stats-eight.vercel.app?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF" height="125" alt="GitHub Streak Stats" />
+      <img 
+        src="https://streak-stats.demolab.com?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF" 
+        height="165" 
+        alt="GitHub Streak Stats" 
+        style="max-width:100%;" 
+      />
     </td>
+
+    <!-- Top Languages -->
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF" height="125" alt="Top Languages" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&langs_count=10&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF" 
+        height="165" 
+        alt="Top Languages" 
+        style="max-width:100%;" 
+      />
     </td>
   </tr>
 </table>
-
 
 
 ---
