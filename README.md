@@ -25,21 +25,25 @@
 ## 📊 GitHub Analytics
 <div align="center">
 
-  <!-- GitHub Stats -->
+  <!-- 🧠 GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF&icon_color=4DB6FF&cache_seconds=1800" 
     height="165" 
     alt="GitHub Stats" 
   />
 
-  <!-- GitHub Streak -->
+  <br/><br/>
+
+  <!-- 🔥 GitHub Streak -->
   <img 
     src="https://streak-stats.demolab.com?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=4DB6FF&fire=FF8C00&currStreakLabel=4DB6FF" 
     height="165" 
     alt="GitHub Streak Stats" 
   />
 
-  <!-- Top Languages -->
+  <br/><br/>
+
+  <!-- 💻 Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&langs_count=10&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4DB6FF" 
     height="165" 
@@ -47,6 +51,7 @@
   />
 
 </div>
+
 
 ---
 ## 🛠️ Tech Toolbox  
