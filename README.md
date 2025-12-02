@@ -24,13 +24,27 @@
 
 ---
 
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&icon_color=38BDF8" height="150" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ajayduraisamy&theme=tokyonight&hide_border=true&background=0f172a&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8" height="150" />
-  <br/>
-</div>
+<table align="center">
+<tr>
+
+<td>
+<img height="150"
+src="https://github-stats-readme.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=radical"/>
+</td>
+
+<td>
+<img height="150"
+src="https://streak-stats.demolab.com?user=ajayduraisamy&theme=radical"/>
+</td>
+
+<td>
+<img height="150"
+src="https://github-stats-readme.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=radical"/>
+</td>
+
+</tr>
+</table>
+
 
 ---
 
