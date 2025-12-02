@@ -24,17 +24,25 @@
 ## 📊 GitHub Performance
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <img height="150" src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8"/>
-    </td>
-    <td align="center">
-      <img height="150" src="https://github-readme-streak-stats-eight.vercel.app/?user=ajayduraisamy&theme=radical&hide_border=true&background=0D1117&ring=38BDF8&fire=FF9800&currStreakLabel=38BDF8"/>
-    </td>
-    <td align="center">
-      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8"/>
-    </td>
-  </tr>
+<tr>
+<td>
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=radical&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&cache_seconds=86400"
+  height="150" />
+</td>
+
+<td>
+  <img
+  src="https://streak-stats.demolab.com?user=ajayduraisamy&theme=radical&background=0D1117"
+  height="150" />
+</td>
+
+<td>
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=radical&bg_color=0D1117&title_color=38BDF8"
+  height="150" />
+</td>
+</tr>
 </table>
 
 ---
