@@ -72,7 +72,7 @@ src="https://github-stats-readme.vercel.app/api/top-langs/?username=ajayduraisam
   
   ### 🌍 Connect With Me
   
-  <a href="https://linkedin.com/in/ajay-duraisamy">
+  <a href="https://www.linkedin.com/in/ajay-d-5b2003273/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ajayduraisamy@gmail.com">
