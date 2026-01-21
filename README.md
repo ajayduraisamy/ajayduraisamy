@@ -9,7 +9,6 @@
 </div>
 
 ---
-
 ### 👤 About Me
 
 I am a **Full-Stack Developer** with over 2 years of experience crafting scalable web architectures and AI-integrated systems. I specialize in bridging the gap between complex machine learning models and intuitive, production-ready user interfaces.
@@ -19,7 +18,6 @@ I am a **Full-Stack Developer** with over 2 years of experience crafting scalabl
 * ☁️ **Architecture:** Focused on clean, maintainable, and cloud-native system design.
 
 ---
-
 ### 🛠️ Core Expertise & Tech Stack
 
 <table width="100%">
@@ -58,9 +56,7 @@ I am a **Full-Stack Developer** with over 2 years of experience crafting scalabl
 </table>
 
 ---
-
 ### 📊 GitHub Insights
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=tokyonight&border_radius=10" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=tokyonight&border_radius=10" height="170" />
@@ -69,16 +65,12 @@ I am a **Full-Stack Developer** with over 2 years of experience crafting scalabl
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayduraisamy&theme=tokyonight&border_radius=10" width="100%" />
 </div>
-
 ---
-
 ### 📫 Let's Connect
-
 <div align="center">
   <p>Whether you're looking for an AI-powered product, a robust web application, or a technical collaboration—let's build something great.</p>
   
   **[ajayduraisamy@gmail.com](mailto:ajayduraisamy@gmail.com)**
-  
-  <br />
+    <br />
   <img src="https://komarev.com/ghpvc/?username=ajayduraisamy&label=PROFILE+VIEWS&style=for-the-badge&color=00b4d8" />
 </div>
