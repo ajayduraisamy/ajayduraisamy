@@ -66,6 +66,7 @@ I am a **Full-Stack Developer** with over 2 years of experience crafting scalabl
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayduraisamy&theme=tokyonight&border_radius=10" width="100%" />
 </div>
 ---
+
 ### 📫 Let's Connect
 <div align="center">
   <p>Whether you're looking for an AI-powered product, a robust web application, or a technical collaboration—let's build something great.</p>
