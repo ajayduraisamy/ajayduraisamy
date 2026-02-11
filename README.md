@@ -2,81 +2,78 @@
 <h3 align="center">Full-Stack Developer | AI Engineer | Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Cloud+%26+DevOps;Problem+Solver;Tech+Explorer" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Cloud+%26+DevOps;Problem+Solver;Tech+Explorer" 
+  />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Full-Stack Developer (MERN, PHP, Python)
-- 🤖 AI / ML & AI Agents
-- ☁️ AWS, Docker, Kubernetes
-- 📚 System Design Learner
-- 🚀 Building Real-World Products
+<p align="center">
+I am a passionate developer working on Full-Stack, AI, and Cloud-based systems.
+Focused on building scalable and real-world applications.
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,react,nextjs,nodejs,express" />
-</p>
-
-### Databases & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,aws,docker,kubernetes,linux,nginx" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,react,nextjs,nodejs,express,mysql,mongodb,postgres,aws,docker,kubernetes,linux,nginx" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayduraisamy&theme=tokyonight" width="48%" />
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=tokyonight&hide_border=true" 
+  />
+  <img 
+    width="48%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ajayduraisamy&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=tokyonight" width="45%" />
+  <img 
+    width="45%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayduraisamy&theme=tokyo-night" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ajayduraisamy&theme=tokyo-night&hide_border=true" 
+  />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Current Focus
 
-### 🤖 Virtual Try-On AI
-- PyTorch, OpenCV, FastAPI, React
+<p align="center">
 
-### ⚡ Microservices Platform
-- Node.js, Docker, Kubernetes
+🧠 AI Agents  
+🚀 Performance Optimization  
+🔐 Security  
+🌐 Scalable Systems  
 
-### 📊 AI Analytics Dashboard
-- Next.js, FastAPI, MongoDB
-
----
-
-## 🎯 Currently Working On
-
-- 🧠 AI Agents
-- 🚀 Performance Tuning
-- 🔐 Security
-- 🌐 Scalable Systems
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:ajayduraisamy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -93,7 +90,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajayduraisamy&style=for-the-badge&color=blue" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=ajayduraisamy&style=for-the-badge&color=blue" 
+  />
 </p>
 
-<h3 align="center">🚀 Building Intelligent Systems for Real-World Impact</h3>
+<h3 align="center">🚀 Building Clean, Scalable & Intelligent Systems</h3>
