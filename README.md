@@ -1,70 +1,103 @@
+# 👋 Hi, I'm Ajay Duraisamy
+
+🚀 Full-Stack Developer | AI & ML Engineer | System Design Enthusiast  
+📍 India
+
+I’m a passionate software engineer with 2+ years of experience building scalable web applications, AI-powered systems, and cloud-native platforms. I enjoy solving real-world problems using modern technologies and clean architecture.
 
 ---
 
-## 📊 GitHub Activity
+## 🧑‍💻 About Me
 
-<div align="center">
+- 💻 Full-Stack Developer (MERN, PHP, Python, Next.js)
+- 🤖 AI / ML & AI Agents Developer
+- ☁️ Cloud & DevOps (AWS, Docker, CI/CD)
+- 📊 Data & Analytics Systems
+- 📚 Constant learner in System Design & Architecture
 
-| **Contribution Stats** | **Language Breakdown** |
-| :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=default&hide_border=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=default&hide_border=true" width="400" /> |
+> "I build software that is reliable, scalable, and impactful."
 
-**🔥 Consistency Streak**<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayduraisamy&theme=default&hide_border=true" width="400" />
+---
 
-</div>
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js, Next.js, Tailwind CSS
+- HTML, CSS, JavaScript, TypeScript
+
+### Backend
+- Node.js, Express.js, Flask, PHP
+- REST APIs, Authentication Systems
+
+### Database
+- MySQL, MongoDB, PostgreSQL
+
+### AI / ML
+- Python, PyTorch, OpenCV
+- Machine Learning, Deep Learning
+- AI Agents & Automation
+
+### Cloud & DevOps
+- AWS, Docker, Kubernetes
+- GitHub Actions, CI/CD
+- Linux, Nginx
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&hide_border=true" width="420" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayduraisamy&hide_border=true" width="420" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### **🤖 Virtual Try-On AI System** *(Computer Vision)*
-- **Tech Stack:** PyTorch, OpenCV, FastAPI, React, Three.js
-- **Impact:** Reduced product returns by 40% for e-commerce clients
-- **Key Features:** Real-time garment simulation, size recommendation AI, AR preview
+### 🤖 Virtual Try-On AI System
+**Tech:** PyTorch, OpenCV, FastAPI, React  
+- Real-time clothing simulation
+- AI size recommendation
+- AR-based preview
 
-### **⚡ Cloud-Native Microservices Platform**
-- **Tech Stack:** Node.js, Kubernetes, Docker, PostgreSQL, Redis
-- **Scale:** Handles 10K+ concurrent users with auto-scaling
-- **Architecture:** Event-driven microservices with CI/CD pipeline
+### ⚡ Cloud Microservices Platform
+**Tech:** Node.js, Docker, Kubernetes, PostgreSQL  
+- Auto-scaling services
+- CI/CD pipeline
+- Event-driven architecture
 
-### **📊 AI-Powered Analytics Dashboard**
-- **Tech Stack:** Next.js, FastAPI, MongoDB, WebSockets, D3.js
-- **Intelligence:** Real-time predictive analytics with ML models
-- **Features:** Custom reporting, anomaly detection, automated insights
-
----
-
-## 🎯 Current Focus Areas
-
-1. **🧠 AI Agents Development** - Building autonomous AI systems for business automation
-2. **🚀 Performance Optimization** - Enhancing system efficiency and reducing latency
-3. **🔐 Security Best Practices** - Implementing robust security in AI applications
-4. **🌐 Scalable Architectures** - Designing systems that grow with user demand
+### 📊 AI Analytics Dashboard
+**Tech:** Next.js, FastAPI, MongoDB, D3.js  
+- Real-time analytics
+- ML predictions
+- Custom dashboards
 
 ---
 
-## 📫 Let's Connect
+## 🎯 Currently Focusing On
 
-<div align="center">
-
-| Platform | Link |
-| :--- | :--- |
-| **📧 Email** | ajayduraisamy@gmail.com |
-| **💼 LinkedIn** | [linkedin.com/in/ajay-d-5b2003273](https://www.linkedin.com/in/ajay-d-5b2003273/) |
-| **🐙 GitHub** | [github.com/ajayduraisamy](https://github.com/ajayduraisamy) |
-
-
-</div>
+- 🧠 AI Agents & Automation
+- 🚀 Performance Optimization
+- 🔐 Application Security
+- 🌐 Scalable Architectures
+- 📐 System Design
 
 ---
 
-<div align="center" style="margin-top: 40px; padding: 20px; background: #f5f5f5; border-radius: 10px;">
+## 📫 Connect With Me
 
-### "I don't just write code—I solve problems with technology."
+- 📧 Email: **ajayduraisamy@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/ajay-d-5b2003273/
+- 🐙 GitHub: https://github.com/ajayduraisamy
 
-**Open to:** AI/ML Projects | Technical Consulting | Full-Stack Development | Architecture Design
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ajayduraisamy&color=blue&style=for-the-badge)
+## 🌟 Career Goal
 
-</div>
+To become a highly skilled Software Architect and AI Engineer who builds intelligent systems that solve real business problems.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ajayduraisamy&style=flat-square&color=blue)
