@@ -82,14 +82,13 @@
 
 <div align="center">
 
-![Ajay's GitHub Stats](https://github-readme-stats-azure-ten-52.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9cacc)
+![Ajay's GitHub Stats](https://github-readme-stats-ajayd.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9cacc)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajayduraisamy&theme=tokyonight&hide_border=true&background=0d1117)
 
-![Top Languages](https://github-readme-stats-azure-ten-52.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9cacc)
+![Top Languages](https://github-readme-stats-ajayd.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9cacc)
 
 </div>
-
 ---
 
 ## 📈 Contribution Activity
