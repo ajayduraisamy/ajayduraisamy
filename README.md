@@ -79,27 +79,22 @@
 ---
 
 ## 📊 GitHub Statistics
-<div align="center">
-
-![Ajay's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajayduraisamy&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📈 Contribution Activity
 
 <div align="center">
-
-[![Ajay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajayduraisamy&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ajayduraisamy)
-
+  <table border="0">
+    <tr>
+      <td width="33.3%" align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ajay's Stats" />
+      </td>
+      <td width="33.3%" align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+      <td width="33.3%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayduraisamy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-
 
 ---
 
