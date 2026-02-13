@@ -3,7 +3,7 @@
 # ⚡ Ajay Duraisamy
 **Full-Stack Architect • AI/ML Engineer • Cloud Specialist**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Crafting+Next-Gen+Applications;Building+Intelligent+AI+Agents;Optimizing+Cloud+Infrastructures" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Agents;Optimizing+Cloud+Infrastructures" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Available_for_Collaboration-2ea44f?style=for-the-badge" />
@@ -13,7 +13,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ajayduraisamy&style=flat-square&color=7AA2F7&label=VISITORS)](https://github.com/ajayduraisamy)
 
 </div>
+
 ---
+
 ## 🎯 About Me
 
 > **Passionate Full-Stack Developer & AI Engineer** dedicated to bridging the gap between complex machine learning models and scalable web applications. I turn theoretical AI into production-ready solutions.
