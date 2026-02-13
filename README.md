@@ -81,22 +81,7 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-graph TD
-    User([User Request]) --> Brain{LLM Agent Brain}
-    Brain --> Memory[(Short/Long Term Memory)]
-    Brain --> Tools[External Tools / APIs]
-    Tools --> Action[Execution]
-    Action --> Feedback[Reflection/Self-Correction]
-    Feedback --> Brain
-    Brain --> Output([Final Result])
-  graph LR
-    A[Traffic] --> B[AWS Load Balancer]
-    B --> C[Kubernetes Cluster]
-    C --> D[Microservice A]
-    C --> E[Microservice B]
-    D --> F[(PostgreSQL)]
-    E --> G[(Redis Cache)]
-![GitHub Stats](https://github-readme-stats-ajayd.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9cacc)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajayduraisamy&theme=tokyonight&hide_border=true&background=0d1117)
 
@@ -250,4 +235,4 @@ Learning & Research    ████░░░░░░  20%
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&width=600&lines=Keep+Coding%2C+Keep+Learning%2C+Keep+Growing!" />
 
 </div>
- correctaa
+
