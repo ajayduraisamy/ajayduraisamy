@@ -1,80 +1,61 @@
 <div align="center">
 
-# 👋 Hi, I'm Ajay Duraisamy
+# ⚡ Ajay Duraisamy
+**Full-Stack Architect • AI/ML Engineer • Cloud Specialist**
 
-### 🚀 Full-Stack Developer | AI/ML Engineer | Cloud & DevOps Enthusiast
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;AI+%26+ML+Solutions;Cloud+Architecture;Real-World+Applications;Open+Source+Contributor)](https://github.com/ajayduraisamy)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ajayduraisamy&style=flat-square&color=blue)](https://github.com/ajayduraisamy)
-
-
-</div>
-
----
-
-## 🎯 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Crafting+Next-Gen+Applications;Building+Intelligent+AI+Agents;Optimizing+Cloud+Infrastructures" alt="Typing SVG" />
 
 <p align="center">
-  <i>
-    Passionate Full-Stack Developer with deep expertise in building scalable, high-performance applications.
-    Specializing in AI/ML integration, cloud architecture, and DevOps practices.
-    Committed to clean code, system design, and solving complex real-world problems.
-  </i>
+  <img src="https://img.shields.io/badge/Status-Available_for_Collaboration-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI_Integration-7AA2F7?style=for-the-badge" />
 </p>
 
-- 💻 **Expertise:** Full-Stack Web Development, AI/ML Engineering, Cloud Solutions
-- 🧠 **Current Focus:** Building intelligent AI agents, performance optimization, and security
-- 🌱 **Always Learning:** Exploring new technologies and architectural patterns
-- 💡 **Philosophy:** *"Write clean code today, thank yourself tomorrow"*
+[![Profile Views](https://komarev.com/ghpvc/?username=ajayduraisamy&style=flat-square&color=7AA2F7&label=VISITORS)](https://github.com/ajayduraisamy)
 
+</div>
 ---
+## 🎯 About Me
 
-## 🛠️ Tech Stack
+> **Passionate Full-Stack Developer & AI Engineer** dedicated to bridging the gap between complex machine learning models and scalable web applications. I turn theoretical AI into production-ready solutions.
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### AI/ML & Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+| 🛠️ Build | 🚀 Scale | 🤖 Automate |
+| :---: | :---: | :---: |
+| Clean & Scalable Architectures | Cloud-Native & DevOps Ready | AI/ML Driven Solutions |
 
 </div>
+
+#### ⚡ Quick Snapshot
+- 🔭 **Current Project:** Developing intelligent AI agents for automated system monitoring.
+- ⚡ **Performance:** Obsessed with reducing API response times and database optimization.
+- 🔐 **Security:** Implementing end-to-end encryption and secure CI/CD pipelines.
+- 🌱 **Learning:** Mastering Distributed Systems and Generative AI at scale.
+
+
+---
+## 🚀 Technical Skills
+
+### 🌐 Frontend & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts,figma" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,redis,prisma" />
+</p>
+
+### 🧠 AI/ML & Python Ecosystem
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,py" />
+</p>
+
+### ☁️ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,git,github,terraform" />
+</p>
+
 
 ---
 
