@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;AI+%26+ML+Solutions;Cloud+Architecture;Real-World+Applications;Open+Source+Contributor)](https://github.com/ajayduraisamy)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ajayduraisamy&style=flat-square&color=blue)](https://github.com/ajayduraisamy)
-[![GitHub followers](https://img.shields.io/github/followers/ajayduraisamy?style=flat-square&color=blue)](https://github.com/ajayduraisamy)
+
 
 </div>
 
