@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems;AI+%26+ML+Solutions;Cloud+Architecture;Real-World+Applications;Open+Source+Contributor)](https://github.com/ajayduraisamy)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ajayduraisamy&style=flat-square&color=blue)](https://github.com/ajayduraisamy)
-
+[![GitHub followers](https://img.shields.io/github/followers/ajayduraisamy?style=flat-square&color=blue)](https://github.com/ajayduraisamy)
 
 </div>
 
@@ -16,11 +16,11 @@
 ## 🎯 About Me
 
 <p align="center">
-  <i>
-    Passionate Full-Stack Developer with deep expertise in building scalable, high-performance applications.
-    Specializing in AI/ML integration, cloud architecture, and DevOps practices.
-    Committed to clean code, system design, and solving complex real-world problems.
-  </i>
+  <i>
+    Passionate Full-Stack Developer with deep expertise in building scalable, high-performance applications.
+    Specializing in AI/ML integration, cloud architecture, and DevOps practices.
+    Committed to clean code, system design, and solving complex real-world problems.
+  </i>
 </p>
 
 - 💻 **Expertise:** Full-Stack Web Development, AI/ML Engineering, Cloud Solutions
@@ -78,16 +78,18 @@
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9cacc)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajayduraisamy&theme=tokyonight&hide_border=true&background=0d1117)
 
-![Top Languages](https://github-readme-stats-ajayd.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9cacc)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9cacc)
 
 </div>
+
 ---
 
 ## 📈 Contribution Activity
@@ -98,19 +100,7 @@
 
 </div>
 
----
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|-----------|--------|
-| **🎯 Attendance System** | Smart biometric & RFID-based employee attendance tracking with real-time analytics | Python, React, PostgreSQL, AWS | ![Active](https://img.shields.io/badge/Active-success) |
-| **🤖 AI Agent Framework** | Modular AI agent system for autonomous task execution | Python, LLM APIs, FastAPI | ![In Development](https://img.shields.io/badge/In%20Dev-blue) |
-| **☁️ Cloud Infrastructure** | Scalable microservices deployment with K8s and Docker | Kubernetes, Docker, AWS | ![Maintained](https://img.shields.io/badge/Maintained-green) |
-
-</div>
 
 ---
 
@@ -151,7 +141,6 @@
 
 ---
 
-
 ## 🎯 Current Focus
 
 <div align="center">
@@ -172,10 +161,10 @@
 <div align="center">
 
 
-📚 **50+** Public Projects Published  
-👥 **100+** Developers Community  
-🌟 **50+** Open Source Contributions  
-🎤 **10+** Technical Talks & Presentations  
+📚 **50+** Public Projects Published  
+👥 **1000+** Developers Community  
+🌟 **100+** Open Source Contributions  
+🎤 **10+** Technical Talks & Presentations  
 
 </div>
 
@@ -190,10 +179,10 @@ I'm always interested in connecting with fellow developers, collaborating on inn
 ### Get In Touch
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayduraisamy@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-d-5b2003273/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajayduraisamy)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://ajay-duraisamy.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ajayduraisamy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://ajayduraisamy.com)
 
 </div>
 
@@ -203,7 +192,7 @@ I'm always interested in connecting with fellow developers, collaborating on inn
 
 <div align="center">
 
-🎯 **Full-Stack Development** | 🤖 **AI/ML Projects** | ☁️ **Cloud Architecture**  
+🎯 **Full-Stack Development** | 🤖 **AI/ML Projects** | ☁️ **Cloud Architecture**  
 🔧 **Consulting** | 📚 **Technical Writing** | 👥 **Mentoring**
 
 **Let's build something amazing together!**
@@ -216,12 +205,12 @@ I'm always interested in connecting with fellow developers, collaborating on inn
 
 ### 📊 This Week I Spent My Time On
 
-```
-Full-Stack Development  ████████░░  40%
-AI/ML Projects         ███░░░░░░░  15%
-DevOps & Infra         ███░░░░░░░  15%
-Open Source            ██░░░░░░░░  10%
-Learning & Research    ████░░░░░░  20%
+``` 
+AI/ML Projects           ████████░░  40%
+Full-Stack Development   ███░░░░░░░  15%
+DevOps & Infra           ███░░░░░░░  15%
+Open Source              ██░░░░░░░░  10%
+Learning & Research      ████░░░░░░  20%
 ```
 
 </div>
@@ -235,4 +224,3 @@ Learning & Research    ████░░░░░░  20%
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&width=600&lines=Keep+Coding%2C+Keep+Learning%2C+Keep+Growing!" />
 
 </div>
-
