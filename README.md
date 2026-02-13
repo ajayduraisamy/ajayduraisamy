@@ -132,36 +132,26 @@
 </div>
 
 ---
-
 ## 🏆 Achievements & Highlights
 
 <div align="center">
 
-
-📚 **50+** Public Projects Published  
-👥 **1000+** Developers Community  
-🌟 **100+** Open Source Contributions  
-🎤 **10+** Technical Talks & Presentations  
-
-</div>
-
----
-
-## 🤝 Let's Collaborate!
-
-<div align="center">
-
-I'm always interested in connecting with fellow developers, collaborating on innovative projects, and contributing to the open-source community.
-
-### Get In Touch
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayduraisamy@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajayduraisamy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://ajayduraisamy.com)
+| 📚 **50+** | 👥 **100+** | 🌟 **2+** | 🎤 **10+** |
+| :--- | :--- | :--- | :--- |
+| **Public Projects** | **Dev Community** | **OS Contributions** | **Tech Talks** |
+| Scalable solutions | Global network | Impactful code | Industry insights |
 
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Top_Contributor-2024-7AA2F7?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Community_Leader-Active-7AA2F7?style=flat-square&logo=google-cloud" />
+  <img src="https://img.shields.io/badge/Open_Source-Advocate-7AA2F7?style=flat-square&logo=git" />
+</p>
+
 ---
+
+
 ## 🤝 Let's Collaborate
 
 <div align="center">
@@ -180,7 +170,7 @@ I'm always interested in connecting with fellow developers, collaborating on inn
 
 <br />
 
-**[ Hire Me ](mailto:ajayduraisamy@gmail.com) • [ View Portfolio ](https://ajayduraisamy.com) • [ Book a Call ](https://www.linkedin.com/in/ajay-d-5b2003273/)**
+**[ Hire Me ](mailto:ajayduraisamy@gmail.com) • [ View Portfolio ](https://ajay-duraisamy.vercel.app/) **
 
 </div>
 
