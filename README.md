@@ -103,20 +103,7 @@
 
 ---
 
-## 🎓 Education & Certifications
 
-<div align="center">
-
-| Certification | Issuer | Year | Badge |
-|---------------|--------|------|-------|
-| **AWS Solutions Architect Associate** | Amazon Web Services | 2024 | ☁️ |
-| **Professional Data Engineer** | Google Cloud | 2023 | 📊 |
-| **Kubernetes Application Developer** | CNCF | 2023 | ☸️ |
-| **Full-Stack Web Development Specialist** | Industry Accreditation | 2022 | 🚀 |
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
