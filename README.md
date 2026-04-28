@@ -60,20 +60,19 @@
 
 
 ---
-
 ## 📊 GitHub Statistics
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="33.3%" align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ajay's Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Ajay's Stats" />
       </td>
       <td width="33.3%" align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=tokyonight" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
       </td>
       <td width="33.3%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayduraisamy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=ajayduraisamy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
