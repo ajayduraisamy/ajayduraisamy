@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Ajay Duraisamy
-**Full-Stack Architect • AI/ML Engineer • Cloud Specialist**
+**AI Systems Engineer • Full-Stack Architect • Cloud Specialist**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Agents;Optimizing+Cloud+Infrastructures" alt="Typing SVG" />
 
@@ -18,7 +18,7 @@
 
 ## 🎯 About Me
 
-> **Passionate Full-Stack Developer & AI Engineer** dedicated to bridging the gap between complex machine learning models and scalable web applications. I turn theoretical AI into production-ready solutions.
+> **AI Systems Engineer focused on building production-grade intelligent systems, combining machine learning, backend architecture, and cloud infrastructure**.
 
 <div align="center">
 
@@ -81,29 +81,24 @@
 
 ---
 
-## 💼 Professional Experience
+## 💼 Engineering Experience
 
-### 🔹 Full-Stack Developer
-- Architected and deployed scalable web applications serving 1000+ users
-- Implemented real-time features using WebSockets and event-driven architecture
-- Optimized database queries reducing response time by 60%
-- Led code reviews and mentored junior developers
+### 🔹 AI Systems
+- Built pipelines: NER → Relation Extraction → Knowledge Graph
+- Developed AI agents for automation workflows
+- Integrated ML models into real-world systems
 
-### 🔹 AI/ML Engineer
-- Developed ML models for predictive analytics and automation
-- Integrated LLMs and AI agents into production systems
-- Created data pipelines processing 10M+ records daily
-- Published research on performance optimization
+### 🔹 Backend Systems
+- Designed scalable APIs using Node.js & FastAPI
+- Built real-time and event-driven architectures
+- Optimized database and API performance
 
-### 🔹 Cloud Architect
-- Designed and implemented AWS infrastructure for high-availability systems
-- Orchestrated containerized applications using Kubernetes
-- Implemented CI/CD pipelines reducing deployment time by 70%
-- Managed infrastructure as code using Terraform
+### 🔹 Edge + Cloud Systems
+- Developed Raspberry Pi + backend AI integrations
+- Implemented offline-first sync architectures
+- Deployed systems using Docker, Nginx, and cloud services
 
 ---
-
-
 
 ## 🎯 Current Focus
 
@@ -123,10 +118,11 @@
 
 <div align="center">
 
-| 📚 **50+** | 👥 **100+** | 🌟 **2+** | 🎤 **10+** |
-| :--- | :--- | :--- | :--- |
-| **Public Projects** | **Dev Community** | **OS Contributions** | **Tech Talks** |
-| Scalable solutions | Global network | Impactful code | Industry insights |
+## 🏆 Highlights
+
+- Built multiple real-world full-stack and AI systems  
+- Active in building scalable and production-ready applications  
+- Focused on AI, backend systems, and cloud architecture  
 
 </div>
 
