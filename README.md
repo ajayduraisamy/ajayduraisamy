@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Ajay Duraisamy
-**AI Systems Engineer • Full-Stack Architect • Cloud Specialist**
+**AI Systems Engineer • Full-Stack Architect **
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Agents;Optimizing+Cloud+Infrastructures" alt="Typing SVG" />
 
