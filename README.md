@@ -1,174 +1,178 @@
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                    AJAY DURAISAMY — README                    -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-# ⚡ Ajay Duraisamy
-**Intelligent Systems Craftsman • Product Alchemist • Digital Experience Shaper**
+```
+ █████╗      ██╗ █████╗ ██╗   ██╗
+██╔══██╗     ██║██╔══██╗╚██╗ ██╔╝
+███████║     ██║███████║ ╚████╔╝ 
+██╔══██║██   ██║██╔══██║  ╚██╔╝  
+██║  ██║╚█████╔╝██║  ██║   ██║   
+╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝  
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Crafting+AI-Powered+Experiences;Blending+Intelligence+%2B+Full-Stack+Magic;Turning+Ideas+Into+Smart+Products" alt="Typing SVG" />
+### `> AI Engineer & Full-Stack Architect`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Building_the_Future-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialty-AI_Meets_Full--Stack-7AA2F7?style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=650&lines=Shipping+production+AI+systems+%F0%9F%9A%80;LLMs+%2B+Agents+%2B+Full-Stack+Architecture;Turning+models+into+real+products" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ajayduraisamy&style=flat-square&color=7AA2F7&label=Eyes+On+This+Profile)](https://github.com/ajayduraisamy)
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ajayduraisamy&style=flat-square&color=00FF9C&label=profile+visits)](https://github.com/ajayduraisamy)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/portfolio-ajay--duraisamy.vercel.app-00FF9C?style=flat-square)](https://ajay-duraisamy.vercel.app/)
+&nbsp;
+[![Mail](https://img.shields.io/badge/hire_me-ajayduraisamy%40gmail.com-00FF9C?style=flat-square)](mailto:ajayduraisamy@gmail.com)
 
 </div>
 
 ---
 
-## 🧬 The Blueprint
+## `whoami`
 
-> **I sit at the sweet spot where artificial intelligence meets real-world applications. Every project I touch gets infused with smart automation, clean architecture, and a seamless user experience — from brain to browser.**
+```yaml
+name        : Ajay Duraisamy
+role        : AI Engineer × Full-Stack Developer
+core_loop   : [build → ship → iterate]
+obsessions  :
+  - LLMs, agents & autonomous systems
+  - API design and system architecture
+  - Making AI actually work in production
+currently   :
+  - Building intelligent agent pipelines for real-world automation
+  - Exploring multi-agent orchestration at scale
+  - Pushing response times under 100ms
+open_to     : Collabs, freelance builds, side bets on AI
+```
+
+---
+
+## `stack --list`
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00FF9C)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge&logo=openai&logoColor=00FF9C)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF9C)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00FF9C)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=00FF9C)
+
+**Full-Stack**
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF9C)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF9C)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF9C)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF9C)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00FF9C)
+
+**Infra / DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=00FF9C)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF9C)
+![PostgreSQL](https://img.shields.io/badge/Postgres-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF9C)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00FF9C)
+![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=00FF9C)
+
+---
+
+## `projects --highlight`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Agent Pipelines
+> Autonomous agents for system monitoring & workflow automation. NER → Relation Extraction → Knowledge Graph, all wired into live systems.
+
+`Python` `LangChain` `FastAPI` `Postgres`
+
+</td>
+<td width="50%">
+
+### ⚡ Edge AI on Raspberry Pi
+> Offline-first AI inference at the edge. Syncs back to cloud when connectivity restores — built for real-world messy environments.
+
+`Python` `MQTT` `Docker` `Redis`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏗️ Scalable API Architecture
+> Event-driven microservices handling real-time workloads. Optimised down to sub-100ms P99 response times.
+
+`Node.js` `Redis` `PostgreSQL` `Nginx`
+
+</td>
+<td width="50%">
+
+### 🌐 Full-Stack AI Products
+> End-to-end products where the LLM is not a chatbot demo — it's the actual engine driving user flows.
+
+`Next.js` `OpenAI` `FastAPI` `AWS`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `git log --stats`
 
 <div align="center">
-
-| 🧠 **AI Brain** | 🎨 **User Face** | 🔧 **System Spine** |
-| :---: | :---: | :---: |
-| Models That Think | Interfaces That Delight | Backends That Deliver |
-| LLMs • Agents • Automation | React • Next • Tailwind | Node • APIs • Databases |
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&border_color=30363D&count_private=true&include_all_commits=true" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&border_color=30363D" />
 </div>
 
-#### ⚡ The Edge I Bring
-- 🔭 **Current Craft:** Intelligent AI agents that monitor, analyze, and act autonomously.
-- ⚡ **Speed Obsession:** Tuning every millisecond — APIs, queries, and load times.
-- 🔐 **Security First:** Encryption by default, secure pipelines, zero-trust mindset.
-- 🌱 **Deep Dive:** Generative AI, distributed systems, and human-like agents.
-
----
-
-## 🧰 The Toolbox
-
-### 🎨 Frontend Canvas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts,figma" />
-</p>
-
-### 🔩 Backend Engine
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,redis,prisma" />
-</p>
-
-### 🧠 Intelligence Core
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-</p>
-
-### 🛠️ Workbench
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx" />
-</p>
-
-
----
-## 📊 Live Activity
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="33.3%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Stats" />
-      </td>
-      <td width="33.3%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Languages" />
-      </td>
-      <td width="33.3%" align="center">
-        <img src="https://streak-stats.demolab.com/?user=ajayduraisamy&theme=tokyonight&hide_border=true" alt="Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🏗️ What I Build
-
-### 🧠 Smart Systems
-- NER → Relation Extraction → Knowledge Graph pipelines
-- Autonomous AI agents for real-time automation
-- ML models integrated directly into production apps
-
-### ⚙️ Robust Backends
-- High-performance REST & GraphQL APIs
-- Real-time architectures with event-driven design
-- Database optimization for blazing query speeds
-
-### 🌐 Connected Experiences
-- Full-stack applications with AI at the core
-- Seamless frontend-backend-intelligence integration
-- Systems deployed and battle-tested for real users
-
----
-
-## 🎯 Current Mission
-
-<div align="center">
-
-| Mission | The Goal | Why It Matters |
-|---------|----------|----------------|
-| 🧠 **Autonomous Agents** | Production-ready AI that works unsupervised | Intelligence without hand-holding |
-| ⚡ **Blazing Performance** | Sub-100ms response times | Speed is a feature |
-| 🔐 **Ironclad Security** | Zero vulnerabilities, full encryption | Trust is earned |
-| 📈 **Seamless Scale** | Handle millions without breaking a sweat | Built for the real world |
-
-</div>
-
----
-## 🏆 Milestones
-
-<div align="center">
-
-## ✨ Moments That Matter
-
-- Shipped multiple full-stack AI products from scratch  
-- Built systems that think, learn, and adapt  
-- Turning complex AI into simple, usable interfaces  
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_Innovator-2024-7AA2F7?style=flat-square&logo=openai" />
-  <img src="https://img.shields.io/badge/Full--Stack_Creator-Active-7AA2F7?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Open_Source_Advocate-Always-7AA2F7?style=flat-square&logo=git" />
-</p>
-
----
-
-## 🤝 Let's Create Something
-
-<div align="center">
-
-| 🚀 Build Together | 🧠 Brainstorm | 💬 Connect |
-| :---: | :---: | :---: |
-| AI-Powered Apps | Technical Strategy | Mentoring |
-| Intelligent Systems | System Design | Open Source |
-| Full-Stack Products | Code Reviews | Collaboration |
-
-<br />
-
-**[ Drop a Message ](mailto:ajayduraisamy@gmail.com) • [ Explore My Work ](https://ajay-duraisamy.vercel.app/) **
-
+  <img src="https://streak-stats.demolab.com/?user=ajayduraisamy&theme=dark&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border=30363D&sideLabels=C9D1D9&dates=C9D1D9" />
 </div>
 
 ---
 
+## `focus --current`
+
+```
+┌─────────────────────────────────────────────┐
+│  THIS WEEK                                  │
+│                                             │
+│  AI Agents & LLM Systems   ████████░░  40% │
+│  Full-Stack Development    █████░░░░░  25% │
+│  Learning & Research       ████░░░░░░  20% │
+│  DevOps / Infra            ███░░░░░░░  15% │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## `connect --open`
+
 <div align="center">
 
-### 📊 This Week's Energy
-AI/ML Projects ██████████░░ 45%
-Full-Stack Building ██████░░░░░░ 25%
-Research & Learning ████░░░░░░░░ 20%
-Open Source Love ██░░░░░░░░░░ 10%
+**I build things. Then I make them fast. Then I make them smart.**
+<br/>
+If that resonates — let's talk.
 
+<br/>
+
+[![Email](https://img.shields.io/badge/email_me-ajayduraisamy%40gmail.com-00FF9C?style=for-the-badge)](mailto:ajayduraisamy@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/portfolio-visit-00FF9C?style=for-the-badge)](https://ajay-duraisamy.vercel.app/)
+
+<br/>
+
+```
+> Available for: freelance builds · AI integrations · full-stack projects
+```
 
 </div>
 
 ---
 
 <div align="center">
-
-**Appreciate the visit! If something sparks, drop a ⭐**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&width=600&lines=Build+Smart.+Ship+Fast.+Repeat." />
-
+<sub>built in vim, shipped with ☕</sub>
 </div>
