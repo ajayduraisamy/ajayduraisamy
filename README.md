@@ -1,118 +1,117 @@
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                    AJAY DURAISAMY — README                    -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
 <div align="center">
 
-```
- █████╗      ██╗ █████╗ ██╗   ██╗
-██╔══██╗     ██║██╔══██╗╚██╗ ██╔╝
-███████║     ██║███████║ ╚████╔╝ 
-██╔══██║██   ██║██╔══██║  ╚██╔╝  
-██║  ██║╚█████╔╝██║  ██║   ██║   
-╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝  
-```
-
-### `> AI Engineer & Full-Stack Architect`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=650&lines=Shipping+production+AI+systems+%F0%9F%9A%80;LLMs+%2B+Agents+%2B+Full-Stack+Architecture;Turning+models+into+real+products" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ajay%20Duraisamy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=a78bfa" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ajayduraisamy&style=flat-square&color=00FF9C&label=profile+visits)](https://github.com/ajayduraisamy)
+<a href="https://ajay-duraisamy.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=a78bfa" />
+</a>
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/portfolio-ajay--duraisamy.vercel.app-00FF9C?style=flat-square)](https://ajay-duraisamy.vercel.app/)
+<a href="mailto:ajayduraisamy@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa" />
+</a>
 &nbsp;
-[![Mail](https://img.shields.io/badge/hire_me-ajayduraisamy%40gmail.com-00FF9C?style=flat-square)](mailto:ajayduraisamy@gmail.com)
+<a href="https://github.com/ajayduraisamy">
+  <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+actually+work+in+prod;LLMs+%2B+Full-Stack+%3D+real+products;NER+%E2%86%92+Knowledge+Graphs+%E2%86%92+Automation;Sub-100ms+or+it+didn%27t+ship" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ajayduraisamy&style=flat-square&color=a78bfa&label=profile+visits)
 
 </div>
 
 ---
 
-## `whoami`
+## ⚡ What I Actually Do
 
-```yaml
-name        : Ajay Duraisamy
-role        : AI Engineer × Full-Stack Developer
-core_loop   : [build → ship → iterate]
-obsessions  :
-  - LLMs, agents & autonomous systems
-  - API design and system architecture
-  - Making AI actually work in production
-currently   :
-  - Building intelligent agent pipelines for real-world automation
-  - Exploring multi-agent orchestration at scale
-  - Pushing response times under 100ms
-open_to     : Collabs, freelance builds, side bets on AI
+```python
+class AjayDuraisamy:
+    focus     = ["AI Engineering", "Full-Stack Development"]
+    currently = "Building autonomous agent pipelines for real-world automation"
+    obsessed  = ["LLMs in production", "sub-100ms APIs", "multi-agent systems"]
+    learning  = ["Distributed systems at scale", "Generative AI orchestration"]
+    open_to   = ["Collabs", "Freelance builds", "AI product ideas"]
+    contact   = "ajayduraisamy@gmail.com"
 ```
 
 ---
 
-## `stack --list`
+## 🤖 AI & Machine Learning
 
-**AI / ML**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/LangChain-0f0c29?style=for-the-badge&logo=chainlink&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/OpenAI_API-0f0c29?style=for-the-badge&logo=openai&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/PyTorch-0f0c29?style=for-the-badge&logo=pytorch&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/HuggingFace-0f0c29?style=for-the-badge&logo=huggingface&logoColor=a78bfa" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00FF9C)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge&logo=openai&logoColor=00FF9C)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF9C)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00FF9C)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=00FF9C)
+## 🌐 Full-Stack
 
-**Full-Stack**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Next.js-0f0c29?style=for-the-badge&logo=nextdotjs&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=nodedotjs&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0f0c29?style=for-the-badge&logo=tailwindcss&logoColor=a78bfa" />
+</p>
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF9C)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00FF9C)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF9C)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF9C)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00FF9C)
+## ☁️ DevOps & Infra
 
-**Infra / DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=00FF9C)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF9C)
-![PostgreSQL](https://img.shields.io/badge/Postgres-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF9C)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00FF9C)
-![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=00FF9C)
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-0f0c29?style=for-the-badge&logo=amazonaws&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Redis-0f0c29?style=for-the-badge&logo=redis&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Nginx-0f0c29?style=for-the-badge&logo=nginx&logoColor=a78bfa" />
+  <img src="https://img.shields.io/badge/Kubernetes-0f0c29?style=for-the-badge&logo=kubernetes&logoColor=a78bfa" />
+</p>
 
 ---
 
-## `projects --highlight`
+## 🏗️ What I've Shipped
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Agent Pipelines
-> Autonomous agents for system monitoring & workflow automation. NER → Relation Extraction → Knowledge Graph, all wired into live systems.
+Autonomous agents for system monitoring & workflow automation. NER → Relation Extraction → Knowledge Graph wired into live production systems.
 
-`Python` `LangChain` `FastAPI` `Postgres`
+**Stack:** `Python` `LangChain` `FastAPI` `PostgreSQL`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚡ Edge AI on Raspberry Pi
-> Offline-first AI inference at the edge. Syncs back to cloud when connectivity restores — built for real-world messy environments.
+Offline-first AI inference at the edge with smart cloud sync. Built for real-world environments where connectivity drops.
 
-`Python` `MQTT` `Docker` `Redis`
+**Stack:** `Python` `MQTT` `Docker` `Redis`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏗️ Scalable API Architecture
-> Event-driven microservices handling real-time workloads. Optimised down to sub-100ms P99 response times.
+### 🔥 Scalable API Systems
+Event-driven microservices handling real-time workloads. Tuned down to sub-100ms P99 response times.
 
-`Node.js` `Redis` `PostgreSQL` `Nginx`
+**Stack:** `Node.js` `Redis` `PostgreSQL` `Nginx`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Full-Stack AI Products
-> End-to-end products where the LLM is not a chatbot demo — it's the actual engine driving user flows.
+End-to-end products where the LLM is the engine driving user flows — not a chatbot bolted on.
 
-`Next.js` `OpenAI` `FastAPI` `AWS`
+**Stack:** `Next.js` `OpenAI` `FastAPI` `AWS`
 
 </td>
 </tr>
@@ -120,59 +119,57 @@ open_to     : Collabs, freelance builds, side bets on AI
 
 ---
 
-## `git log --stats`
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&border_color=30363D&count_private=true&include_all_commits=true" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&border_color=30363D" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ajayduraisamy&theme=dark&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border=30363D&sideLabels=C9D1D9&dates=C9D1D9" />
-</div>
-
----
-
-## `focus --current`
-
-```
-┌─────────────────────────────────────────────┐
-│  THIS WEEK                                  │
-│                                             │
-│  AI Agents & LLM Systems   ████████░░  40% │
-│  Full-Stack Development    █████░░░░░  25% │
-│  Learning & Research       ████░░░░░░  20% │
-│  DevOps / Infra            ███░░░░░░░  15% │
-└─────────────────────────────────────────────┘
-```
-
----
-
-## `connect --open`
+## 📊 GitHub Stats
 
 <div align="center">
 
-**I build things. Then I make them fast. Then I make them smart.**
-<br/>
-If that resonates — let's talk.
-
-<br/>
-
-[![Email](https://img.shields.io/badge/email_me-ajayduraisamy%40gmail.com-00FF9C?style=for-the-badge)](mailto:ajayduraisamy@gmail.com)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" />
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/portfolio-visit-00FF9C?style=for-the-badge)](https://ajay-duraisamy.vercel.app/)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=ajayduraisamy&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+---
+
+## 🎯 This Week
+
+```
+AI Agents & LLM Systems    ████████░░░░  40%
+Full-Stack Development     ██████░░░░░░  25%
+Research & Learning        █████░░░░░░░  20%
+DevOps & Infra             ███░░░░░░░░░  15%
+```
+
+---
+
+## 🤝 Let's Build Something
+
+<div align="center">
+
+**I build AI systems that ship. Not demos — real products.**
 
 <br/>
 
-```
-> Available for: freelance builds · AI integrations · full-stack projects
-```
+**Available for:** `Freelance builds` · `AI integrations` · `Full-stack projects` · `Consulting`
+
+<br/>
+
+<a href="mailto:ajayduraisamy@gmail.com">
+  <img src="https://img.shields.io/badge/Hire_Me-Email_Now-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" />
+</a>
+&nbsp;
+<a href="https://ajay-duraisamy.vercel.app/">
+  <img src="https://img.shields.io/badge/View_Portfolio-Visit_Site-a78bfa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-<sub>built in vim, shipped with ☕</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 </div>
