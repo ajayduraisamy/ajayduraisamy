@@ -46,20 +46,36 @@
 
 ## 🧠 About Me
 
-```python
-class AjayDuraisamy:
-    """AI Engineer building production-grade autonomous systems."""
+<table>
+<tr>
+<td width="35%" align="center" valign="top">
 
-    role        = "AI Engineer & Full Stack Developer"
-    location    = "India"
-    focus       = ["AI Engineering", "Full Stack Development", "Agentic Systems"]
-    building    = "Autonomous AI agent pipelines for real-world automation"
-    obsessed    = ["LLMs in production", "sub-100ms APIs", "multi-agent systems"]
-    learning    = ["Distributed systems at scale", "Generative AI orchestration"]
-    stack       = ["Python", "FastAPI", "LangChain", "Next.js", "AWS", "Docker"]
-    vibe        = "Ship fast, break latency, iterate on real data"
-    contact     = "ajayduraisamy@gmail.com"
-```
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY1YzA4N3F2YzFhOHdyaDRxZzY3NTJzMnViNTZ6anZzZXhxaTdyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
+
+</td>
+<td width="65%" valign="top">
+
+### 👨‍💻 Ajay Duraisamy
+
+**AI Engineer & Full Stack Developer** · India
+
+<img src="https://img.shields.io/badge/Location-India-a78bfa?style=flat-square&labelColor=0f0c29" />&nbsp;
+<img src="https://img.shields.io/badge/Contact-ajayduraisamy%40gmail.com-a78bfa?style=flat-square&labelColor=0f0c29" />
+
+<br/>
+
+| | |
+|---|---|
+| 🎯 **Focus** | AI Engineering · Full Stack Development · Agentic Systems |
+| 🚀 **Building** | Autonomous AI agent pipelines for real-world automation |
+| ⚡ **Obsessed** | LLMs in production · sub-100ms APIs · Multi-agent systems |
+| 📚 **Learning** | Distributed systems at scale · Generative AI orchestration |
+| 🛠️ **Stack** | Python · FastAPI · LangChain · Next.js · AWS · Docker |
+| 💡 **Vibe** | Ship fast, break latency, iterate on real data |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -69,32 +85,32 @@ class AjayDuraisamy:
 
 ### 🤖 AI & Machine Learning
 <p align="left">
-<img src="https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/LangChain-0f0c29?style=for-the-badge&logo=chainlink&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/OpenAI-0f0c29?style=for-the-badge&logo=openai&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/YOLOv8-0f0c29?style=for-the-badge&logo=pytorch&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/FastAPI-0f0c29?style=flat-square&logo=fastapi&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/LangChain-0f0c29?style=flat-square&logo=chainlink&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/OpenAI-0f0c29?style=flat-square&logo=openai&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/YOLOv8-0f0c29?style=flat-square&logo=pytorch&logoColor=a78bfa" />
 </p>
 
 ### 🌐 Frontend & Backend
 <p align="left">
-<img src="https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/Next.js-0f0c29?style=for-the-badge&logo=nextdotjs&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=nodedotjs&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/TailwindCSS-0f0c29?style=for-the-badge&logo=tailwindcss&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/MongoDB-0f0c29?style=for-the-badge&logo=mongodb&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/React-0f0c29?style=flat-square&logo=react&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Next.js-0f0c29?style=flat-square&logo=nextdotjs&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/TypeScript-0f0c29?style=flat-square&logo=typescript&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Node.js-0f0c29?style=flat-square&logo=nodedotjs&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/TailwindCSS-0f0c29?style=flat-square&logo=tailwindcss&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/MongoDB-0f0c29?style=flat-square&logo=mongodb&logoColor=a78bfa" />
 </p>
 
 ### ☁️ DevOps & Infrastructure
 <p align="left">
-<img src="https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/Kubernetes-0f0c29?style=for-the-badge&logo=kubernetes&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/AWS-0f0c29?style=for-the-badge&logo=amazonwebservices&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/Redis-0f0c29?style=for-the-badge&logo=redis&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/Linux-0f0c29?style=for-the-badge&logo=linux&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Docker-0f0c29?style=flat-square&logo=docker&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Kubernetes-0f0c29?style=flat-square&logo=kubernetes&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/AWS-0f0c29?style=flat-square&logo=amazonwebservices&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/PostgreSQL-0f0c29?style=flat-square&logo=postgresql&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Redis-0f0c29?style=flat-square&logo=redis&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Git-0f0c29?style=flat-square&logo=git&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Linux-0f0c29?style=flat-square&logo=linux&logoColor=a78bfa" />
 </p>
 
 ---
@@ -212,44 +228,28 @@ Event-driven ML pipelines handling real-time data ingestion, feature engineering
 
 <div align="center">
 
-![github-snake](https://raw.githubusercontent.com/ajayduraisamy/ajayduraisamy/output/github-snake-dark.svg)
+<img src="https://media.giphy.com/media/M9BWNi3sFyA7WOSA2M/giphy.gif" width="300" />
+
+<br/><br/>
+
+The snake animation will appear here once you run the workflow.  
+Workflow is already created at `.github/workflows/snake.yml`.
 
 </div>
 
 <details>
-<summary><b>📁 Required: GitHub Actions Workflow for Snake</b></summary>
+<summary><b>▶️ One-time setup: Run the Snake Workflow</b></summary>
 <br/>
 
-Create `.github/workflows/snake.yml` in your repository to generate the contribution snake:
+The workflow file already exists in your repo. Just:
 
-```yaml
-name: Generate Snake
+1. Go to your repo's **Actions** tab
+2. Select **Generate Snake** in the left sidebar
+3. Click **Run workflow** → **Run workflow**
+4. Wait ~30 seconds — it will create an `output` branch with the snake SVG
+5. After that, the snake auto-updates daily
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After adding this workflow, push it to your default branch. The snake will generate after the first run (trigger manually via Actions tab if you don't want to wait for the schedule).
+Or push any commit to trigger it on schedule.
 
 </details>
 
