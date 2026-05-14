@@ -222,17 +222,6 @@ Event-driven ML pipelines handling real-time data ingestion, feature engineering
 
 ---
 
-<!-- SNAKE ANIMATION -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![github-snake](https://raw.githubusercontent.com/ajayduraisamy/ajayduraisamy/output/github-snake-dark.svg)
-
-</div>
-
----
 
 <!-- CURRENT FOCUS -->
 
@@ -295,8 +284,3 @@ current_mission:
 
 ---
 
-<!-- FOOTER -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-</div>
