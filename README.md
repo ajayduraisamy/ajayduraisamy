@@ -30,9 +30,7 @@
 <a href="mailto:ajayduraisamy@gmail.com">
   <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=1a1a2e" />
 </a>&nbsp;
-<a href="https://x.com/ajayduraisamy">
-  <img src="https://img.shields.io/badge/X-0f0c29?style=for-the-badge&logo=x&logoColor=a78bfa&labelColor=1a1a2e" />
-</a>
+
 
 <br/>
 
