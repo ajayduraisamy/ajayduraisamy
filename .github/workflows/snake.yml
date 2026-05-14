@@ -20,10 +20,9 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: peaceiris/actions-gh-pages@v3
+      - uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
-          user_name: github-actions
-          user_email: github-actions@github.com
+          branch: output
+          folder: dist
+          clean: true
+          token: ${{ secrets.GITHUB_TOKEN }}
