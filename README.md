@@ -8,29 +8,29 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300" style="border-radius: 12px; border: 1px solid #a78bfa;" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300" />
 
 <br/>
 
 </div>
 
-<!-- Social Badges -->
+<!-- SOCIAL BADGES -->
 
 <div align="center">
 
-<a href="https://ajay-duraisamy.vercel.app/" target="_blank">
+<a href="https://ajay-duraisamy.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=a78bfa&labelColor=1a1a2e" />
 </a>&nbsp;
-<a href="https://github.com/ajayduraisamy" target="_blank">
+<a href="https://github.com/ajayduraisamy">
   <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=1a1a2e" />
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/ajayduraisamy" target="_blank">
+<a href="https://www.linkedin.com/in/ajayduraisamy">
   <img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=1a1a2e" />
 </a>&nbsp;
 <a href="mailto:ajayduraisamy@gmail.com">
   <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=1a1a2e" />
 </a>&nbsp;
-<a href="https://x.com/ajayduraisamy" target="_blank">
+<a href="https://x.com/ajayduraisamy">
   <img src="https://img.shields.io/badge/X-0f0c29?style=for-the-badge&logo=x&logoColor=a78bfa&labelColor=1a1a2e" />
 </a>
 
@@ -42,7 +42,7 @@
 
 ---
 
-<!-- About Me -->
+<!-- ABOUT ME -->
 
 ## 🧠 About Me
 
@@ -63,7 +63,7 @@ class AjayDuraisamy:
 
 ---
 
-<!-- Tech Stack -->
+<!-- TECH STACK -->
 
 ## ⚡ Tech Stack
 
@@ -73,7 +73,7 @@ class AjayDuraisamy:
 <img src="https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=a78bfa" />
 <img src="https://img.shields.io/badge/LangChain-0f0c29?style=for-the-badge&logo=chainlink&logoColor=a78bfa" />
 <img src="https://img.shields.io/badge/OpenAI-0f0c29?style=for-the-badge&logo=openai&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/YOLOv8-0f0c29?style=for-the-badge&logo=openai&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/YOLOv8-0f0c29?style=for-the-badge&logo=pytorch&logoColor=a78bfa" />
 </p>
 
 ### 🌐 Frontend & Backend
@@ -99,7 +99,7 @@ class AjayDuraisamy:
 
 ---
 
-<!-- Projects -->
+<!-- PROJECTS -->
 
 ## 🏗️ What I've Built
 
@@ -108,7 +108,7 @@ class AjayDuraisamy:
 <td width="50%" valign="top">
 
 ### 🤖 AI Agent Pipelines
-Autonomous agents for system monitoring & workflow automation. NER → Relation Extraction → Knowledge Graph wired into live production systems.
+Autonomous agents for system monitoring &amp; workflow automation. NER &#8594; Relation Extraction &#8594; Knowledge Graph wired into live production systems.
 
 **Stack:** `Python` `LangChain` `FastAPI` `PostgreSQL`
 
@@ -162,15 +162,15 @@ Event-driven ML pipelines handling real-time data ingestion, feature engineering
 
 ---
 
-<!-- GitHub Stats -->
+<!-- GITHUB STATS -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" />
+<img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=ajayduraisamy&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" />
+<img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ajayduraisamy&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0" />
 
 <br/><br/>
 
@@ -194,33 +194,33 @@ Event-driven ML pipelines handling real-time data ingestion, feature engineering
 
 ---
 
-<!-- Activity Graph -->
+<!-- ACTIVITY GRAPH -->
 
 ## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayduraisamy&theme=react-dark&bg_color=0f0c29&color=a78bfa&line=302b63&point=a78bfa&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayduraisamy&theme=react-dark&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-<!-- Snake Animation -->
+<!-- SNAKE ANIMATION -->
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-![snake gif](https://github.com/ajayduraisamy/ajayduraisamy/blob/output/github-snake-dark.svg)
+![github-snake](https://raw.githubusercontent.com/ajayduraisamy/ajayduraisamy/output/github-snake-dark.svg)
 
 </div>
 
 <details>
-<summary><b>📁 GitHub Actions Workflow (for snake generation)</b></summary>
+<summary><b>📁 Required: GitHub Actions Workflow for Snake</b></summary>
 <br/>
 
-Create `.github/workflows/snake.yml` in your repository:
+Create `.github/workflows/snake.yml` in your repository to generate the contribution snake:
 
 ```yaml
 name: Generate Snake
@@ -237,7 +237,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: Platane/snk@v3
         with:
-          github_user_name: ajayduraisamy
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -249,11 +249,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
+After adding this workflow, push it to your default branch. The snake will generate after the first run (trigger manually via Actions tab if you don't want to wait for the schedule).
+
 </details>
 
 ---
 
-<!-- Current Focus -->
+<!-- CURRENT FOCUS -->
 
 ## 🎯 Current Focus
 
@@ -274,7 +276,7 @@ current_mission:
 
 ---
 
-<!-- Philosophy -->
+<!-- PHILOSOPHY -->
 
 ## 💭 Philosophy
 
@@ -284,7 +286,7 @@ current_mission:
 
 ---
 
-<!-- Hire Me / Freelance -->
+<!-- HIRE ME / FREELANCE -->
 
 ## 🤝 Let's Build Something
 
@@ -314,7 +316,7 @@ current_mission:
 
 ---
 
-<!-- Footer -->
+<!-- FOOTER -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
