@@ -228,30 +228,9 @@ Event-driven ML pipelines handling real-time data ingestion, feature engineering
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/M9BWNi3sFyA7WOSA2M/giphy.gif" width="300" />
-
-<br/><br/>
-
-The snake animation will appear here once you run the workflow.  
-Workflow is already created at `.github/workflows/snake.yml`.
+![github-snake](https://raw.githubusercontent.com/ajayduraisamy/ajayduraisamy/output/github-snake-dark.svg)
 
 </div>
-
-<details>
-<summary><b>▶️ One-time setup: Run the Snake Workflow</b></summary>
-<br/>
-
-The workflow file already exists in your repo. Just:
-
-1. Go to your repo's **Actions** tab
-2. Select **Generate Snake** in the left sidebar
-3. Click **Run workflow** → **Run workflow**
-4. Wait ~30 seconds — it will create an `output` branch with the snake SVG
-5. After that, the snake auto-updates daily
-
-Or push any commit to trigger it on schedule.
-
-</details>
 
 ---
 
