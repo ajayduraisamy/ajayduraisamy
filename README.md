@@ -268,10 +268,7 @@ current_mission:
   <img src="https://img.shields.io/badge/Hire_Me-Email_Now-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" />
 </a>
 &nbsp;
-<a href="https://ajay-duraisamy.vercel.app/">
-  <img src="https://img.shields.io/badge/View_Portfolio-Visit_Site-a78bfa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29" />
-</a>
-&nbsp;
+
 <a href="https://github.com/ajayduraisamy">
   <img src="https://img.shields.io/badge/See_My_Work-GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" />
 </a>
