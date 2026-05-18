@@ -18,9 +18,7 @@
 
 <div align="center">
 
-<a href="https://ajay-duraisamy.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=a78bfa&labelColor=1a1a2e" />
-</a>&nbsp;
+
 <a href="https://github.com/ajayduraisamy">
   <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=1a1a2e" />
 </a>&nbsp;
