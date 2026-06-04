@@ -275,5 +275,3 @@ current_mission:
 
 </div>
 
----
-
