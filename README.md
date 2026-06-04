@@ -4,20 +4,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Building+AI+Agents;LLM+Systems;FastAPI+%26+Next.js" />
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Building+AI+Agents;LLM+Systems;RAG+%26+Fine-tuning" />
 
 </div>
 
-<!-- SOCIAL BADGES -->
-
 <div align="center">
-
 
 <a href="https://github.com/ajayduraisamy">
   <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=1a1a2e" />
@@ -29,7 +20,6 @@
   <img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=1a1a2e" />
 </a>&nbsp;
 
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=ajayduraisamy&style=for-the-badge&color=a78bfa&label=PROFILE+VISITS&labelColor=0f0c29" />
@@ -38,132 +28,84 @@
 
 ---
 
-<!-- ABOUT ME -->
+## About Me
 
-## 🧠 About Me
-
-<table>
-<tr>
-<td width="35%" align="center" valign="top">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXY1YzA4N3F2YzFhOHdyaDRxZzY3NTJzMnViNTZ6anZzZXhxaTdyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
-
-</td>
-<td width="65%" valign="top">
-
-### 👨‍💻 Ajay Duraisamy
-
-I am a **Senior AI Engineer & Full Stack Developer** dedicated to bridging the gap between complex research and production-ready software. I specialize in building **autonomous AI agents**, **advanced RAG pipelines**, and **high-performance full-stack architectures**. 
-
-My philosophy is simple: **"Build for scale, optimize for intelligence."** I don't just implement models; I design the entire ecosystem—from vector database indexing and prompt orchestration to responsive frontend interfaces and scalable DevOps pipelines.
+**Senior AI Engineer & Full Stack Developer** bridging research and production. I build autonomous AI agents, RAG pipelines, fine-tuned LLMs, and scalable full-stack systems. My philosophy: *"Build for scale, optimize for intelligence."*
 
 <img src="https://img.shields.io/badge/Location-India-a78bfa?style=flat-square&labelColor=0f0c29" />&nbsp;
 <img src="https://img.shields.io/badge/Contact-ajayduraisamy%40gmail.com-a78bfa?style=flat-square&labelColor=0f0c29" />
 
-<br/>
+### AI Expertise
 
-
-### 🧠 AI & Machine Learning Expertise
-<details open>
-<summary><b>Deep Dive into AI Stack</b></summary>
-
-#### 🤖 Generative AI & LLMs
-- **Orchestration:** LangChain, LangGraph (Multi-agent workflows), MCP Integration.
-- **RAG Systems:** Advanced Retrieval Augmented Generation, Hybrid Search, Query Expansion.
-- **Memory & State:** Long-term memory systems, Knowledge Graphs (Neo4j), Vector DBs.
-- **Optimization:** Prompt Engineering, Fine-tuning strategies, Model Quantization.
-
-#### 👁️ Computer Vision & Deep Learning
-- **YOLO Ecosystem:** Expert in YOLO v5, v7, v8 (Custom training, Detection, Tracking).
-- **Edge AI:** Deploying models on Raspberry Pi and embedded systems for real-time inference.
-- **Core ML:** PyTorch, TensorFlow, Scikit-Learn, NumPy, Pandas.
-
-#### 🌐 NLP & Knowledge Engineering
-- **Information Extraction:** NER, Coreference Resolution, Relation & Attribute Extraction.
-- **Graph AI:** Transforming unstructured text into structured Knowledge Graphs.
-</details>
-
-
-</td>
-</tr>
-</table>
+- **LLMs & Fine-tuning:** PEFT, LoRA/QLoRA, distributed training, model quantization, custom dataset preparation.
+- **RAG Systems:** Hybrid search, query expansion, re-ranking, long-term memory, multi-modal retrieval.
+- **AI Agents:** Multi-agent orchestration (LangGraph), tool-calling, MCP integration, graph-based memory.
+- **Production AI:** Sub-50ms inference, model serving, prompt engineering, eval-driven optimization.
 
 ---
 
-<!-- TECH STACK -->
+## Tech Stack
 
-## ⚡ Tech Stack
-
-
-
-### 🛠️ Technical Arsenal
-
-#### 🌌 Backend & AI Infrastructure
+### Backend & AI Infrastructure
 ![Python](https://img.shields.io/badge/python-367CD1?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009685?style=flat-square&logo=fastapi&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-68A093?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-#### 🎨 Frontend & UX
+### Frontend & UX
 ![React](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-#### 💾 Data Persistence
+### Data & Vector Stores
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-DC38L4?style=flat-square&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/neo4j-008858?style=flat-square&logo=neo4j&logoColor=white)
+![Chroma](https://img.shields.io/badge/chroma-6C5CE7?style=flat-square&logo=chromadb&logoColor=white)
+![Weaviate](https://img.shields.io/badge/weaviate-00BFFF?style=flat-square&logo=weaviate&logoColor=white)
 
-#### ☁️ Cloud & DevOps
+### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
-<!-- PROJECTS -->
+### Featured Projects
 
-### 🚀 Featured Engineering Projects
+#### GPT-Like Coding Model
+**End-to-end causal language model trained from scratch.**
+- Implemented multi-head causal attention, positional encodings, and feed-forward blocks from scratch in PyTorch.
+- Trained on code corpora with custom tokenizer and achieved coherent code generation.
+- *Tech: PyTorch, Transformers, CUDA, Weights & Biases.*
 
-#### 🤖 AI Agent Platform
-**Multi-agent orchestration system with tool-calling capabilities.**
-- Integrated **MCP (Model Context Protocol)** for seamless tool interaction.
-- Implemented complex memory systems and RAG pipelines for context-aware responses.
-- *Tech: Python, LangGraph, FastAPI, VectorDB, Docker.*
+#### RAG Pipeline Suite
+**Production-grade retrieval-augmented generation system with hybrid search.**
+- Dense + sparse retrieval with query expansion and cross-encoder re-ranking.
+- Long-term memory layer with summarization and entity extraction.
+- *Tech: LangChain, Chroma/Weaviate, OpenAI/LLaMA, FastAPI.*
 
-#### 🕸️ Text-to-Knowledge Graph System
-**Automated pipeline converting unstructured text into queryable graphs.**
-- Developed custom NER and Relation Extraction modules.
-- Implemented Coreference Resolution to maintain entity integrity.
-- Visualized complex relationships using **Neo4j**.
-- *Tech: Python, Spacy, Neo4j, Transformers.*
+#### Fine-Tuning Framework
+**Parameter-efficient fine-tuning for open-source LLMs.**
+- LoRA/QLoRA adapters for LLaMA, Mistral, and CodeLlama.
+- Custom dataset curation, multi-GPU distributed training, and eval harness.
+- *Tech: HuggingFace Transformers, PEFT, TRL, DeepSpeed, Axolotl.*
 
-#### 🛡️ Smart Attendance & Access Control
-**Edge AI system for secure facility management.**
-- Real-time Face Recognition and multi-modal auth (RFID/Fingerprint).
-- Deployed on **Raspberry Pi** with offline synchronization capabilities.
-- *Tech: Python, OpenCV, YOLO, SQLite, Raspberry Pi.*
-
-#### 👁️ YOLO Computer Vision Suite
-**High-performance object detection and tracking systems.**
-- Custom model training for niche datasets with optimized inference.
-- Real-time deployment on edge devices.
-- *Tech: PyTorch, YOLOv8, OpenCV, Linux.*
+#### AI Agent Orchestrator
+**Multi-agent system with tool-calling and graph-based memory.**
+- LangGraph-based supervisor + specialist agent topology for complex workflows.
+- MCP integration for external tool access and structured outputs.
+- *Tech: LangGraph, FastAPI, Docker, VectorDB.*
 
 ---
 
-<!-- GITHUB STATS -->
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -173,50 +115,19 @@ My philosophy is simple: **"Build for scale, optimize for intelligence."** I don
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=ajayduraisamy&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" />
-
-<br/><br/>
-
-### 🃏 Profile Summary Cards
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajayduraisamy&theme=2077" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajayduraisamy&theme=2077" height="170" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajayduraisamy&theme=2077" height="170" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajayduraisamy&theme=2077" height="170" />
-
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-
-## 📈 Activity Graph
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayduraisamy&theme=react-dark&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-
-<!-- CURRENT FOCUS -->
-
-## 🎯 Current Focus
+## Current Focus
 
 ```
 AI Agents & LLM Systems    ██████████░░░░░░  55%
 Full Stack Development     ███████░░░░░░░░░  30%
 Research & Learning        █████░░░░░░░░░░░  15%
 ```
-
-<br/>
 
 ```yaml
 current_mission:
@@ -227,9 +138,7 @@ current_mission:
 
 ---
 
-<!-- PHILOSOPHY -->
-
-## 💭 Philosophy
+## Philosophy
 
 > *"AI is not about replacing humans — it's about augmenting human capability at scale. I build systems that ship, not demos that impress."*
 
@@ -237,9 +146,7 @@ current_mission:
 
 ---
 
-<!-- HIRE ME / FREELANCE -->
-
-## 🤝 Let's Build Something
+## Let's Build Something
 
 <div align="center">
 
@@ -255,7 +162,6 @@ current_mission:
   <img src="https://img.shields.io/badge/Hire_Me-Email_Now-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" />
 </a>
 &nbsp;
-
 <a href="https://github.com/ajayduraisamy">
   <img src="https://img.shields.io/badge/See_My_Work-GitHub-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" />
 </a>
@@ -263,4 +169,3 @@ current_mission:
 </div>
 
 ---
-
