@@ -22,7 +22,7 @@
 <a href="https://github.com/ajayduraisamy">
   <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=1a1a2e" />
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/ajayduraisamy">
+<a href="https://www.linkedin.com/in/ajay-d-5b2003273/">
   <img src="https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=1a1a2e" />
 </a>&nbsp;
 <a href="mailto:ajayduraisamy@gmail.com">
