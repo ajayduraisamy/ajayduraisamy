@@ -62,11 +62,11 @@
 
 | | |
 |---|---|
-| 🎯 **Focus** | AI Engineering · Full Stack Development · Agentic Systems |
-| 🚀 **Building** | Autonomous AI agent pipelines for real-world automation |
-| ⚡ **Obsessed** | LLMs in production · sub-100ms APIs · Multi-agent systems |
-| 📚 **Learning** | Distributed systems at scale · Generative AI orchestration |
-| 🛠️ **Stack** | Python · FastAPI · LangChain · Next.js · AWS · Docker |
+| 🎯 **Focus** | AI Engineering · LLM Engineering · Computer Vision · Full Stack · Agentic AI |
+| 🚀 **Building** | AI Agents · RAG Systems · Computer Vision · Medical Imaging · Full Stack SaaS |
+| ⚡ **Obsessed** | LLMs in production · sub-100ms APIs · Multi-agent systems · Agentic AI |
+| 📚 **Learning** | Distributed LLM inference · Multi-agent orchestration · Medical AI systems |
+| 🛠️ **Stack** | Python · PyTorch · LangChain · FastAPI · Next.js · AWS |
 | 💡 **Vibe** | Ship fast, break latency, iterate on real data |
 
 </td>
@@ -82,31 +82,112 @@
 ### 🤖 AI & Machine Learning
 <p align="left">
 <img src="https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/FastAPI-0f0c29?style=flat-square&logo=fastapi&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/PyTorch-0f0c29?style=flat-square&logo=pytorch&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/TensorFlow-0f0c29?style=flat-square&logo=tensorflow&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/scikit--learn-0f0c29?style=flat-square&logo=scikit-learn&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/OpenCV-0f0c29?style=flat-square&logo=opencv&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Hugging%20Face-0f0c29?style=flat-square&logo=huggingface&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Ollama-0f0c29?style=flat-square&labelColor=0f0c29" />
 <img src="https://img.shields.io/badge/LangChain-0f0c29?style=flat-square&logo=chainlink&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/LangGraph-0f0c29?style=flat-square&labelColor=0f0c29" />
 <img src="https://img.shields.io/badge/OpenAI-0f0c29?style=flat-square&logo=openai&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/YOLOv8-0f0c29?style=flat-square&logo=pytorch&logoColor=a78bfa" />
 </p>
 
-### 🌐 Frontend & Backend
+### 🧠 LLM Engineering
+<p align="left">
+<img src="https://img.shields.io/badge/Transformers-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Self--Attention-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Multi--Head%20Attention-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/LoRA-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/PEFT-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/RAG-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/AI%20Agents-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Function%20Calling-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Tool%20Calling-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Vector%20Search-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Embeddings-0f0c29?style=flat-square&labelColor=0f0c29" />
+</p>
+
+### ⚡ Advanced LLM Systems
+<p align="left">
+<img src="https://img.shields.io/badge/MoE-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/RLHF-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/DPO-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Quantization-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/KV%20Cache-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Inference%20Optimization-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Distributed%20Training-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/FSDP-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/ZeRO-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Tensor%20Parallelism-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Pipeline%20Parallelism-0f0c29?style=flat-square&labelColor=0f0c29" />
+</p>
+
+### 👁️ Computer Vision
+<p align="left">
+<img src="https://img.shields.io/badge/YOLOv5-0f0c29?style=flat-square&logo=pytorch&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/YOLOv8-0f0c29?style=flat-square&logo=pytorch&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/YOLOv11-0f0c29?style=flat-square&logo=pytorch&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Swin%20Transformer-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Vision%20Transformer-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/MobileNet-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/ResNet-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Face%20Recognition-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Medical%20Image%20Analysis-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Object%20Detection-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Image%20Classification-0f0c29?style=flat-square&labelColor=0f0c29" />
+</p>
+
+### 🗄️ Vector Databases
+<p align="left">
+<img src="https://img.shields.io/badge/Pinecone-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/ChromaDB-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/FAISS-0f0c29?style=flat-square&labelColor=0f0c29" />
+</p>
+
+### 🌐 Backend & APIs
+<p align="left">
+<img src="https://img.shields.io/badge/FastAPI-0f0c29?style=flat-square&logo=fastapi&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Flask-0f0c29?style=flat-square&logo=flask&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Express.js-0f0c29?style=flat-square&logo=express&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/PHP-0f0c29?style=flat-square&logo=php&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/REST%20APIs-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/JWT%20Auth-0f0c29?style=flat-square&logo=jsonwebtokens&logoColor=a78bfa" />
+</p>
+
+### 🎨 Frontend
 <p align="left">
 <img src="https://img.shields.io/badge/React-0f0c29?style=flat-square&logo=react&logoColor=a78bfa" />
 <img src="https://img.shields.io/badge/Next.js-0f0c29?style=flat-square&logo=nextdotjs&logoColor=a78bfa" />
 <img src="https://img.shields.io/badge/TypeScript-0f0c29?style=flat-square&logo=typescript&logoColor=a78bfa" />
 <img src="https://img.shields.io/badge/Node.js-0f0c29?style=flat-square&logo=nodedotjs&logoColor=a78bfa" />
 <img src="https://img.shields.io/badge/TailwindCSS-0f0c29?style=flat-square&logo=tailwindcss&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/MongoDB-0f0c29?style=flat-square&logo=mongodb&logoColor=a78bfa" />
 </p>
 
-### ☁️ DevOps & Infrastructure
+### 💾 Databases
+<p align="left">
+<img src="https://img.shields.io/badge/MongoDB-0f0c29?style=flat-square&logo=mongodb&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/MySQL-0f0c29?style=flat-square&logo=mysql&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/PostgreSQL-0f0c29?style=flat-square&logo=postgresql&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/SQLite-0f0c29?style=flat-square&logo=sqlite&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Redis-0f0c29?style=flat-square&logo=redis&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Neo4j-0f0c29?style=flat-square&logo=neo4j&logoColor=a78bfa" />
+</p>
+
+### ☁️ Cloud & DevOps
 <p align="left">
 <img src="https://img.shields.io/badge/Docker-0f0c29?style=flat-square&logo=docker&logoColor=a78bfa" />
 <img src="https://img.shields.io/badge/Kubernetes-0f0c29?style=flat-square&logo=kubernetes&logoColor=a78bfa" />
 <img src="https://img.shields.io/badge/AWS-0f0c29?style=flat-square&logo=amazonwebservices&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/PostgreSQL-0f0c29?style=flat-square&logo=postgresql&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/Redis-0f0c29?style=flat-square&logo=redis&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/Git-0f0c29?style=flat-square&logo=git&logoColor=a78bfa" />
 <img src="https://img.shields.io/badge/Linux-0f0c29?style=flat-square&logo=linux&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0f0c29?style=flat-square&logo=githubactions&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/CI%2FCD-0f0c29?style=flat-square&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/Vercel-0f0c29?style=flat-square&logo=vercel&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Cloudflare-0f0c29?style=flat-square&logo=cloudflare&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Nginx-0f0c29?style=flat-square&logo=nginx&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Git-0f0c29?style=flat-square&logo=git&logoColor=a78bfa" />
 </p>
 
 ---
@@ -167,6 +248,42 @@ Offline-first AI inference at the edge with smart cloud sync. Built for environm
 Event-driven ML pipelines handling real-time data ingestion, feature engineering, and model inference at sub-100ms P99.
 
 **Stack:** `Python` `Redis` `PostgreSQL` `Nginx` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 RAG Systems
+Retrieval-augmented generation pipelines combining vector search with LLM reasoning for accurate, grounded responses over enterprise knowledge bases.
+
+**Stack:** `LangChain` `FAISS` `Pinecone` `ChromaDB` `OpenAI` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Medical Imaging Projects
+Computer vision pipelines for medical image analysis — segmentation, classification, and detection using deep learning models optimized for clinical accuracy.
+
+**Stack:** `Python` `PyTorch` `OpenCV` `YOLOv8` `ResNet` `TensorFlow`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 LLM Applications
+Production-grade LLM applications leveraging prompt engineering, function calling, and fine-tuning for domain-specific tasks and user-facing products.
+
+**Stack:** `Python` `LangChain` `OpenAI` `FastAPI` `Next.js` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Multi-Agent Systems
+Autonomous multi-agent architectures where LLM-powered agents collaborate via tool calling, shared memory, and orchestrated workflows for complex task execution.
+
+**Stack:** `LangGraph` `LangChain` `FastAPI` `Redis` `Docker`
 
 </td>
 </tr>
@@ -233,9 +350,9 @@ Research & Learning        █████░░░░░░░░░░░  15%
 
 ```yaml
 current_mission:
-  building: "Autonomous agent pipelines for enterprise automation"
+  building: "AI Agents · RAG Systems · Medical Imaging · Full Stack SaaS"
   optimizing: "sub-50ms inference for real-time AI systems"
-  exploring: "Multi-agent orchestration & graph-based memory"
+  exploring: "Multi-agent orchestration · Graph-based memory · Distributed LLM inference"
 ```
 
 ---
@@ -274,4 +391,3 @@ current_mission:
 </a>
 
 </div>
-
